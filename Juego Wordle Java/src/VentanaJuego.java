@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 public class VentanaJuego extends javax.swing.JFrame {
-
+////
     private int intentoActual = 0;
     private String palabraSecreta;
     private int numeroIntentos;//valor inicial por defecto
